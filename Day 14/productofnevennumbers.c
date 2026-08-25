@@ -10,7 +10,6 @@ int main (){
         if(i%2 == 0 ){
         multi *= i;
     }
-    
 }
 printf("%d",multi);
 return 0;
